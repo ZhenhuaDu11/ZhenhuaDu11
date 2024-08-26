@@ -1,5 +1,5 @@
 # Hi there👋I'm Zhenhua Du😄
-I'm currently a M.Eng. student at National University of Defense Technology (NUDT), supervised by Kai Huo and [Shuaifeng Zhi](https://shuaifengzhi.com/). Before that, I also received my Bachelor's degree from NUDT in 2022.
+I'm currently a M.Eng. student at [National University of Defense Technology](https://www.nudt.edu.cn/) (NUDT), supervised by Kai Huo and [Shuaifeng Zhi](https://shuaifengzhi.com/). Before that, I also received my Bachelor's degree from NUDT in 2022.
 
 My research interest lies in computer vision and robotics, especially on Scene Representations and Reconstruction, Semantic Scene Understanding, SLAM, etc. **My ultimate research goal is to enable robots to autonomously explore, reconstruct, and understand the real world, just like Wall-E**😍. To achieve this, now I am focusing on the following aspects:
 1) ☝Compact representation and efficient reconstruction of the visual world;
