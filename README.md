@@ -4,5 +4,5 @@ I'm currently a Master student at [National University of Defense Technology](ht
 
 My research interests lie in computer vision and robotics, with a current focus on scene reconstruction and semantic understanding. 
 
-Nice to meet you! I'm excited for any chatting or disscussion about spatial AI:)
+Nice to meet you! I'm excited for any chatting or disscussion about spatial AI :)
 
