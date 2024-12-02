@@ -1,4 +1,4 @@
-Hi👋, my name is Zhenhua Du(杜振华).
+Hi👋, my name is Zhenhua Du (杜振华).
 
 I'm currently a Master student at [National University of Defense Technology](https://www.nudt.edu.cn/) (NUDT), working with Kai Huo and [Shuaifeng Zhi](https://shuaifengzhi.com/).
 
